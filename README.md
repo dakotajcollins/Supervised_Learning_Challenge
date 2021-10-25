@@ -1,2 +1,2 @@
 # Supervised_Learning_Challenge
- For Scores and predictions view ipynb file in instructions folder
+ For Scores and predictions view "Credit Risk Evaluator.ipynb" file in instructions folder
